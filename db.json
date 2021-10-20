@@ -1,7 +1,65 @@
 {
-   "song": [
-       {
-           "id": 1
-       }
-   ]
+   "shoppe": [
+           {
+                "id": 1,
+                "name": "Áo sweater - Áo nỉ bông tay dài UNISEX NE346",
+                "image": "https://cf.shopee.vn/file/db5ec6d79c3937c3efa8e2d6b3b1efbd",
+                "price-min": "120.000",
+                "price-max": "150.000",
+                "color": ["Nỉ bông đen", "Nỉ bông trắng", "Nỉ bông vàng", "Nỉ bông xanh", "Nỉ bông đỏ dô"],
+                "size": ["M", "L", "XL", "XXL", "XXXL"],
+                "quatity": 49921,
+                "review": "8,6k",
+                "sold": "19,5k",
+                "like": "15,5k",
+                "name-shop": "luongkimhoa2901",
+                "image-shop": "https://cf.shopee.vn/file/607ada035c629a034173766064a73af1_tn",
+                "description": "THÔNG TIN SẢN PHẨM: Áo nỉ Hoodie<br>- Chất liệu nỉ Bông   Cotton 100%  mềm mại dày dặn  , thoáng mát<br>- Đường may được gia công tỉ mỉ, chắc chắn.<br>- Hình in sắc nét, chân thực<br><br>M : Ngang 56cm - Dài 70cm ( 45kg - 60kg )<br>L : Ngang 58cm - Dài 72cm  ( 60kg - 70kg )<br>XL: ngang 60cm - Dài 74cm   ( 70kg - 85kg )<br>* Bảng size chỉ mang tính chất tham khảo và phù hợp với phần đông khách hàng, Khách hoàn toàn có thể chọn lên hoặc xuống size tuỳ thuộc vào sở thích và form dáng của mình <br>HOGOTO SHOP CAM KẾT:<br>- Sản phẩm 100% giống mô tả. Hình ảnh sản phẩm chân thật ,đầy đủ tem, mác, bao bì cao cấp.<br>- Hình ảnh sản phẩm là ảnh thật do shop tự chụp và giữ bản quyền hình ảnh<br>- Đảm bảo vải chất lượng 100% cotton chuẩn xuất khẩu.<br>- Áo được kiểm tra kĩ càng, cẩn thận và tư vấn nhiệt tình trước khi gói hàng giao cho Quý Khách<br>- Hàng có sẵn, giao hàng ngay khi nhận được đơn <br>- Hoàn tiền nếu sản phẩm không giống với mô tả<br>- Chấp nhận đổi hàng khi size không vừa (vui lòng nhắn tin riêng cho shop)<br>- Giao hàng trên toàn quốc, nhận hàng trả tiền <br>- Hỗ trợ đổi trả theo quy định của Shopee<br><br>- Quý khách nhận được sản phẩm, vui lòng đánh giá giúp Shop để hưởng thêm nhiều ưu đãi hơn nhé.<br>Lưu ý: Khi bạn gặp bất kì vấn đề gì đừng vội đánh giá Sản Phẩm mà hãy liên hệ Shop để đc hỗ trợ 1 cách tốt nhất  nhé.<br><br>1. Điều kiện áp dụng (trong vòng 07 ngày kể từ khi nhận sản phẩm) <br>- Hàng hoá vẫn còn mới, chưa qua sử dụng <br>- Hàng hoá bị lỗi hoặc hư hỏng do vận chuyển hoặc do nhà sản xuất <br>2. Trường hợp được chấp nhận: <br>- Hàng không đúng size, kiểu dáng như quý khách đặt hàng <br>- Không đủ số lượng, không đủ bộ như trong đơn hàng <br>3. Trường hợp không đủ điều kiện áp dụng chính sách: <br>- Quá 07 ngày kể từ khi Quý khách nhận hàng <br>- Gửi lại hàng không đúng mẫu mã, không phải sản phẩm của HOGOTO<br>- Không thích, không hợp, đặt nhầm mã, nhầm màu,... <br>Do màn hình và điều kiện ánh sáng khác nhau, màu sắc thực tế của sản phẩm có thể chênh lệch khoảng 3-5%"
+           },
+           {
+                "id": 2,
+                "name": "Áo sweater - Áo nỉ bông tay dài UNISEX NE346",
+                "image": "https://cf.shopee.vn/file/db5ec6d79c3937c3efa8e2d6b3b1efbd",
+                "price-min": "120.000",
+                "price-max": "150.000",
+                "color": ["Nỉ bông đen", "Nỉ bông trắng", "Nỉ bông vàng", "Nỉ bông xanh", "Nỉ bông đỏ dô"],
+                "size": ["M", "L", "XL", "XXL", "XXXL"],
+                "quatity": 49921,
+                "review": "8,6k",
+                "sold": "19,5k",
+                "like": "15,5k",
+                "name-shop": "luongkimhoa2901",
+                "image-shop": "https://cf.shopee.vn/file/607ada035c629a034173766064a73af1_tn"
+           },
+           {
+                "id": 3,
+                "name": "Áo sweater - Áo nỉ bông tay dài UNISEX NE346",
+                "image": "https://cf.shopee.vn/file/db5ec6d79c3937c3efa8e2d6b3b1efbd",
+                "price-min": "120.000",
+                "price-max": "150.000",
+                "color": ["Nỉ bông đen", "Nỉ bông trắng", "Nỉ bông vàng", "Nỉ bông xanh", "Nỉ bông đỏ dô"],
+                "size": ["M", "L", "XL", "XXL", "XXXL"],
+                "quatity": 49921,
+                "review": "8,6k",
+                "sold": "19,5k",
+                "like": "15,5k",
+                "name-shop": "luongkimhoa2901",
+                "image-shop": "https://cf.shopee.vn/file/607ada035c629a034173766064a73af1_tn"
+           },
+           {
+                "id": 4,
+                "name": "Áo sweater - Áo nỉ bông tay dài UNISEX NE346",
+                "image": "https://cf.shopee.vn/file/db5ec6d79c3937c3efa8e2d6b3b1efbd",
+                "price-min": "120.000",
+                "price-max": "150.000",
+                "color": ["Nỉ bông đen", "Nỉ bông trắng", "Nỉ bông vàng", "Nỉ bông xanh", "Nỉ bông đỏ dô"],
+                "size": ["M", "L", "XL", "XXL", "XXXL"],
+                "quatity": 49921,
+                "review": "8,6k",
+                "sold": "19,5k",
+                "like": "15,5k",
+                "name-shop": "luongkimhoa2901",
+                "image-shop": "https://cf.shopee.vn/file/607ada035c629a034173766064a73af1_tn"
+           }
+        ]
 }
