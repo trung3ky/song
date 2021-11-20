@@ -4,6 +4,7 @@
       "id": 1,
       "name": "Áo sweater - Áo nỉ bông tay dài UNISEX NE346",
       "image": "https://cf.shopee.vn/file/db5ec6d79c3937c3efa8e2d6b3b1efbd",
+      "category": "thời trang",
       "price-min": "120000",
       "price-max": "150000",
       "color": [
@@ -27,6 +28,7 @@
       "id": 2,
       "name": "Giày Jordan 1 Low Paris Trắng Xám, JD1 Low Paris Cổ Thấp Gót Xanh Thời Trang Hot Hit 2021",
       "image": "https://cf.shopee.vn/file/dea2a07e530f52c2ac0e7177612f490d",
+      "category": "giày dép",
       "price-min": "185000",
       "price-max": "236.800",
       "color": ["Trắng", "Đen", "Xanh", "Vàng"],
@@ -44,6 +46,7 @@
       "id": 3,
       "name": "Áo nỉ Hoodie Cograue ulzang Tay Phồng, Áo Sweater Nỉ Chui Đầu Form Rộng Unisex",
       "image": "https://cf.shopee.vn/file/9f3355e91e08f785640e5cee230b7224",
+      "category": "thời trang",
       "price-min": "10000",
       "price-max": "50000",
       "color": [
@@ -67,6 +70,7 @@
       "id": 4,
       "name": "Áo sweater nỉ unisex form rộng, Áo Hoodie Coffee nam nữ phong cách ulzzang Wind",
       "image": "https://cf.shopee.vn/file/ecfbd94a39b5d64a8ee64cf946cb1dc4",
+      "category": "thời trang",
       "price-min": "11000",
       "price-max": "55000",
       "color": [
@@ -90,6 +94,7 @@
       "id": 5,
       "name": "Áo sweater nỉ unisex form rộng, Áo Hoodie Coffee nam nữ phong cách ulzzang Wind",
       "image": "https://cf.shopee.vn/file/a2a09c0f1ea1df52c715f9269fae9925",
+      "category": "thời trang",
       "price-min": "11000",
       "price-max": "55000",
       "color": [
@@ -113,6 +118,7 @@
       "id": 6,
       "name": "Đồng hồ nữ guou quai silicol mặt chữ nhật siêu hot 2021 bản dây aple donghonu (video ảnh thật",
       "image": "https://cf.shopee.vn/file/4ce94a12c215ae37a15f0b808b383b6e",
+      "category": "đồng hồ",
       "price-min": "200000",
       "price-max": "249000",
       "color": [
@@ -136,6 +142,7 @@
       "id": 7,
       "name": "Thắt lưng nam The High, da thật 2 lớp khóa tự động cao cấp, mặt khuôn cá sấu 3D sang trọng [ẢNH, VIDEO THẬT]",
       "image": "https://cf.shopee.vn/file/19f964f6eea035aece3559fa4f14dfb3",
+      "category": "khác",
       "price-min": "15000",
       "price-max": "59000",
       "color": [
@@ -159,6 +166,7 @@
       "id": 8,
       "name": "Áo Hoodie nỉ bông siêu dày form rộng uisex in họa tiết bar",
       "image": "https://cf.shopee.vn/file/9ad007edadf58969578acc784af505e9",
+      "category": "thời trang",
       "price-min": "33000",
       "price-max": "168000",
       "color": [
@@ -182,6 +190,7 @@
       "id": 9,
       "name": "Tinh chất phục hồi da mụn thảo mộc - Anti Acne Herb Serum Éveila",
       "image": "https://cf.shopee.vn/file/bba25b7fe69640f50d8b45c167b4f1fc",
+      "category": "khác",
       "price-min": "330000",
       "price-max": "340000",
       "color": [
@@ -205,6 +214,7 @@
       "id": 10,
       "name": "Áo xuông dài tay mặt cười in logo da cá H2H455",
       "image": "https://cf.shopee.vn/file/13585194ab2eafdefcba29baecf5ff62",
+      "category": "thời trang",
       "price-min": "35000",
       "price-max": "50000",
       "color": [
@@ -228,6 +238,7 @@
       "id": 11,
       "name": "Túi đeo chéo bao tử ZADA chất liệu da pu chống nước thời trang đeo vai hàn quốc [Z6066]",
       "image": "https://cf.shopee.vn/file/3248d15fd75c74076cde7c603b893b32",
+      "category": "khác",
       "price-min": "149000",
       "price-max": "160000",
       "color": [
@@ -251,6 +262,7 @@
       "id": 12,
       "name": "Mặt Nạ Bùn Khoáng - The Moshav Farm",
       "image": "https://cf.shopee.vn/file/8265a6a18e33812438854ef736a37756",
+      "category": "khác",
       "price-min": "180000",
       "price-max": "199000",
       "color": [
@@ -274,6 +286,7 @@
       "id": 13,
       "name": "Áo khoác nỉ lông thêu chữ thar ,Chất dày dặn,không xù,Cam Kết Hàng xịn - Shop Q&V",
       "image": "https://cf.shopee.vn/file/3812cba5abad5d949d9938883ee14973",
+      "category": "thời trang",
       "price-min": "153000",
       "price-max": "159000",
       "color": [
@@ -297,6 +310,7 @@
       "id": 14,
       "name": "Giày vải lưới kẻ caro mùa thu mới 2020 giày nam/nữ giày sneaker phiên bản hàn quốc của xu hướng giày đế thấp",
       "image": "https://cf.shopee.vn/file/81f09e7124b0b1296ff7205a7a8de1bc",
+      "category": "giày dép",
       "price-min": "250000",
       "price-max": "259000",
       "color": [
@@ -320,6 +334,7 @@
       "id": 15,
       "name": "ÁO KHOÁC 2 MÀU CỰC XINH N01",
       "image": "https://cf.shopee.vn/file/a46057529812816877425e2a91a8e2de",
+      "category": "thời trang",
       "price-min": "158000",
       "price-max": "200000",
       "color": [
@@ -343,6 +358,7 @@
       "id": 16,
       "name": "Áo hoodie nam nữ form rộng Unisex PEP siêu xinh PT5, Áo sweater nam nữ nỉ có mũ phong cách oversize streetwear",
       "image": "https://cf.shopee.vn/file/98ab8024181df6e4a7a3cab5a84dd36a",
+      "category": "thời trang",
       "price-min": "13000",
       "price-max": "65000",
       "color": [
@@ -366,6 +382,7 @@
       "id": 17,
       "name": "Đồng hồ nam Seiko 5 Sport[Chính hãng] - Máy Cơ, Mặt kính Sapphire,Bảo hành 12 tháng",
       "image": "https://cf.shopee.vn/file/c8d1fd691b37b026908b4c890f2feeef",
+      "category": "đồng hồ",
       "price-min": "250000",
       "price-max": "259000",
       "color": [
@@ -389,6 +406,7 @@
       "id": 18,
       "name": "[RẺ VÔ ĐỊCH Áo Thun Kẻ Oversize (Áo Thun Unisex Form Rộng)",
       "image": "https://cf.shopee.vn/file/30e0e942c913da7f47660d062fd283e2",
+      "category": "thời trang",
       "price-min": "29000",
       "price-max": "32000",
       "color": [
@@ -412,6 +430,7 @@
       "id": 19,
       "name": "[RẺ VÔ ĐỊCH Áo Thun Kẻ Oversize (Áo Thun Unisex Form Rộng)",
       "image": "https://cf.shopee.vn/file/30e0e942c913da7f47660d062fd283e2",
+      "category": "thời trang",
       "price-min": "29000",
       "price-max": "32000",
       "color": [
@@ -435,6 +454,7 @@
       "id": 20,
       "name": "Áo sweater nữ form rộng Unisex FOR siêu xinh PT7 phong cách Hàn Quốc, Áo hoodie nỉ không mũ oversize streetwear",
       "image": "https://cf.shopee.vn/file/950f446ce58d50eabf688032faf344dc",
+      "category": "thời trang",
       "price-min": "12000",
       "price-max": "61000",
       "color": [
@@ -458,6 +478,7 @@
       "id": 21,
       "name": "Áo sweater nam nữ, Áo nỉ nam nữ form rộng Black Air siêu hot ( KÈM ẢNH THẬT )",
       "image": "https://cf.shopee.vn/file/d284798e9987395f524091ec721f7a00",
+      "category": "thời trang",
       "price-min": "11000",
       "price-max": "56000",
       "color": [
@@ -481,6 +502,7 @@
       "id": 22,
       "name": "Áo Sweater Nữ Dáng Rộng In Chữ Phong Cách Hàn Quốc Năng Động Cho Nữ, Áo nỉ S54",
       "image": "https://cf.shopee.vn/file/e341609b6c36c1f71aa9ee971976d2f3",
+      "category": "thời trang",
       "price-min": "55000",
       "price-max": "65000",
       "color": [
@@ -504,6 +526,7 @@
       "id": 23,
       "name": "Áo phông nam nữ tay lỡ form rộng unisex, Áo thun tay lỡ Nam Nữ Oversize A56",
       "image": "https://cf.shopee.vn/file/10ad32bd070190ec51fed3efed64f9fe",
+      "category": "thời trang",
       "price-min": "35000",
       "price-max": "61000",
       "color": [
@@ -527,6 +550,7 @@
       "id": 24,
       "name": "Quần thể thao 3 sọc nam nữ ống suông rộng baggy Umi cao cấp - Quần jogger nam nữ 3 sọc đen dây rút học sinh QD01",
       "image": "https://cf.shopee.vn/file/eaa244b4ec3da11c2c6782c1ccadaaf3",
+      "category": "thời trang",
       "price-min": "11000",
       "price-max": "55000",
       "color": [
@@ -550,6 +574,7 @@
       "id": 25,
       "name": "Tai nghe nhét tai U19 giắc cắm 3.5mm dành cho điện thoại Android/iOs 6s 6plus/Samsung",
       "image": "https://cf.shopee.vn/file/2d91551dc94a0844859c9c2158fa1a93",
+      "category": "khác",
       "price-min": "3000",
       "price-max": "14000",
       "color": [
@@ -573,6 +598,7 @@
       "id": 26,
       "name": "Áo Khoác Bomber Nỉ Phối Tay Hình Cậu Bé Form Rộng Unisex",
       "image": "https://cf.shopee.vn/file/04670ce64e1050029c71fccba7ddba0d",
+      "category": "thời trang",
       "price-min": "62000",
       "price-max": "70000",
       "color": [
@@ -596,6 +622,7 @@
       "id": 27,
       "name": "Áo hoodie nam nữ form rộng Unisex PEP siêu xinh PT5, Áo sweater nam nữ nỉ có mũ phong cách oversize streetwear",
       "image": "https://cf.shopee.vn/file/98ab8024181df6e4a7a3cab5a84dd36a",
+      "category": "thời trang",
       "price-min": "13000",
       "price-max": "65000",
       "color": [
@@ -619,6 +646,7 @@
       "id": 28,
       "name": "Đồng hồ nam Seiko 5 Sport[Chính hãng] - Máy Cơ, Mặt kính Sapphire,Bảo hành 12 tháng",
       "image": "https://cf.shopee.vn/file/c8d1fd691b37b026908b4c890f2feeef",
+      "category": "đồng hồ",
       "price-min": "250000",
       "price-max": "259000",
       "color": [
@@ -642,6 +670,7 @@
       "id": 29,
       "name": "[RẺ VÔ ĐỊCH Áo Thun Kẻ Oversize (Áo Thun Unisex Form Rộng)",
       "image": "https://cf.shopee.vn/file/30e0e942c913da7f47660d062fd283e2",
+      "category": "thời trang",
       "price-min": "29000",
       "price-max": "32000",
       "color": [
@@ -665,6 +694,7 @@
       "id": 30,
       "name": "Áo sweater nữ form rộng Unisex FOR siêu xinh PT7 phong cách Hàn Quốc, Áo hoodie nỉ không mũ oversize streetwear",
       "image": "https://cf.shopee.vn/file/950f446ce58d50eabf688032faf344dc",
+      "category": "thời trang",
       "price-min": "12000",
       "price-max": "61000",
       "color": [
@@ -688,6 +718,7 @@
       "id": 31,
       "name": "Áo sweater nam nữ, Áo nỉ nam nữ form rộng Black Air siêu hot ( KÈM ẢNH THẬT )",
       "image": "https://cf.shopee.vn/file/d284798e9987395f524091ec721f7a00",
+      "category": "thời trang",
       "price-min": "11000",
       "price-max": "56000",
       "color": [
@@ -711,6 +742,7 @@
       "id": 32,
       "name": "Áo Sweater Nữ Dáng Rộng In Chữ Phong Cách Hàn Quốc Năng Động Cho Nữ, Áo nỉ S54",
       "image": "https://cf.shopee.vn/file/e341609b6c36c1f71aa9ee971976d2f3",
+      "category": "thời trang",
       "price-min": "55000",
       "price-max": "65000",
       "color": [
@@ -734,6 +766,7 @@
       "id": 33,
       "name": "Áo phông nam nữ tay lỡ form rộng unisex, Áo thun tay lỡ Nam Nữ Oversize A56",
       "image": "https://cf.shopee.vn/file/10ad32bd070190ec51fed3efed64f9fe",
+      "category": "thời trang",
       "price-min": "35000",
       "price-max": "61000",
       "color": [
@@ -757,6 +790,7 @@
       "id": 34,
       "name": "Quần thể thao 3 sọc nam nữ ống suông rộng baggy Umi cao cấp - Quần jogger nam nữ 3 sọc đen dây rút học sinh QD01",
       "image": "https://cf.shopee.vn/file/eaa244b4ec3da11c2c6782c1ccadaaf3",
+      "category": "thời trang",
       "price-min": "11000",
       "price-max": "55000",
       "color": [
@@ -780,6 +814,7 @@
       "id": 35,
       "name": "Tai nghe nhét tai U19 giắc cắm 3.5mm dành cho điện thoại Android/iOs 6s 6plus/Samsung",
       "image": "https://cf.shopee.vn/file/2d91551dc94a0844859c9c2158fa1a93",
+      "category": "khác",
       "price-min": "3000",
       "price-max": "14000",
       "color": [
@@ -803,6 +838,7 @@
       "id": 36,
       "name": "Áo Khoác Bomber Nỉ Phối Tay Hình Cậu Bé Form Rộng Unisex",
       "image": "https://cf.shopee.vn/file/04670ce64e1050029c71fccba7ddba0d",
+      "category": "thời trang",
       "price-min": "62000",
       "price-max": "70000",
       "color": [
@@ -826,6 +862,7 @@
       "id": 37,
       "name": "Áo Khoác Bomber Nỉ Phối Tay Hình Cậu Bé Form Rộng Unisex",
       "image": "https://cf.shopee.vn/file/04670ce64e1050029c71fccba7ddba0d",
+      "category": "thời trang",
       "price-min": "62000",
       "price-max": "70000",
       "color": [
@@ -849,6 +886,7 @@
       "id": 38,
       "name": "Áo Khoác Bomber Nỉ Phối Tay Hình Cậu Bé Form Rộng Unisex",
       "image": "https://cf.shopee.vn/file/04670ce64e1050029c71fccba7ddba0d",
+      "category": "thời trang",
       "price-min": "62000",
       "price-max": "70000",
       "color": [
@@ -872,6 +910,7 @@
       "id": 39,
       "name": "Áo Khoác Bomber Nỉ Phối Tay Hình Cậu Bé Form Rộng Unisex",
       "image": "https://cf.shopee.vn/file/04670ce64e1050029c71fccba7ddba0d",
+      "category": "thời trang",
       "price-min": "62000",
       "price-max": "70000",
       "color": [
@@ -895,6 +934,7 @@
       "id": 40,
       "name": "Áo Khoác Bomber Nỉ Phối Tay Hình Cậu Bé Form Rộng Unisex",
       "image": "https://cf.shopee.vn/file/04670ce64e1050029c71fccba7ddba0d",
+      "category": "thời trang",
       "price-min": "62000",
       "price-max": "70000",
       "color": [
@@ -918,6 +958,7 @@
       "id": 41,
       "name": "Áo sweater nam nữ, Áo nỉ nam nữ form rộng Black Air siêu hot ( KÈM ẢNH THẬT )",
       "image": "https://cf.shopee.vn/file/d284798e9987395f524091ec721f7a00",
+      "category": "thời trang",
       "price-min": "11000",
       "price-max": "56000",
       "color": [
@@ -941,6 +982,7 @@
       "id": 42,
       "name": "Áo Sweater Nữ Dáng Rộng In Chữ Phong Cách Hàn Quốc Năng Động Cho Nữ, Áo nỉ S54",
       "image": "https://cf.shopee.vn/file/e341609b6c36c1f71aa9ee971976d2f3",
+      "category": "thời trang",
       "price-min": "55000",
       "price-max": "65000",
       "color": [
@@ -964,6 +1006,7 @@
       "id": 43,
       "name": "Áo phông nam nữ tay lỡ form rộng unisex, Áo thun tay lỡ Nam Nữ Oversize A56",
       "image": "https://cf.shopee.vn/file/10ad32bd070190ec51fed3efed64f9fe",
+      "category": "thời trang",
       "price-min": "35000",
       "price-max": "61000",
       "color": [
@@ -987,6 +1030,7 @@
       "id": 44,
       "name": "Quần thể thao 3 sọc nam nữ ống suông rộng baggy Umi cao cấp - Quần jogger nam nữ 3 sọc đen dây rút học sinh QD01",
       "image": "https://cf.shopee.vn/file/eaa244b4ec3da11c2c6782c1ccadaaf3",
+      "category": "thời trang",
       "price-min": "11000",
       "price-max": "55000",
       "color": [
@@ -1010,6 +1054,7 @@
       "id": 45,
       "name": "Tai nghe nhét tai U19 giắc cắm 3.5mm dành cho điện thoại Android/iOs 6s 6plus/Samsung",
       "image": "https://cf.shopee.vn/file/2d91551dc94a0844859c9c2158fa1a93",
+      "category": "khác",
       "price-min": "3000",
       "price-max": "14000",
       "color": [
@@ -1033,6 +1078,7 @@
       "id": 46,
       "name": "Áo Khoác Bomber Nỉ Phối Tay Hình Cậu Bé Form Rộng Unisex",
       "image": "https://cf.shopee.vn/file/04670ce64e1050029c71fccba7ddba0d",
+      "category": "thời trang",
       "price-min": "62000",
       "price-max": "70000",
       "color": [
@@ -1056,6 +1102,7 @@
       "id": 47,
       "name": "Áo Khoác Bomber Nỉ Phối Tay Hình Cậu Bé Form Rộng Unisex",
       "image": "https://cf.shopee.vn/file/04670ce64e1050029c71fccba7ddba0d",
+      "category": "thời trang",
       "price-min": "62000",
       "price-max": "70000",
       "color": [
@@ -1079,6 +1126,7 @@
       "id": 48,
       "name": "Áo Khoác Bomber Nỉ Phối Tay Hình Cậu Bé Form Rộng Unisex",
       "image": "https://cf.shopee.vn/file/04670ce64e1050029c71fccba7ddba0d",
+      "category": "thời trang",
       "price-min": "62000",
       "price-max": "70000",
       "color": [
@@ -1102,6 +1150,7 @@
       "id": 49,
       "name": "Áo Khoác Bomber Nỉ Phối Tay Hình Cậu Bé Form Rộng Unisex",
       "image": "https://cf.shopee.vn/file/04670ce64e1050029c71fccba7ddba0d",
+      "category": "thời trang",
       "price-min": "62000",
       "price-max": "70000",
       "color": [
@@ -1125,6 +1174,7 @@
       "id": 50,
       "name": "Áo Khoác Bomber Nỉ Phối Tay Hình Cậu Bé Form Rộng Unisex",
       "image": "https://cf.shopee.vn/file/04670ce64e1050029c71fccba7ddba0d",
+      "category": "thời trang",
       "price-min": "62000",
       "price-max": "70000",
       "color": [
@@ -1148,6 +1198,7 @@
       "id": 51,
       "name": "Áo Khoác Bomber Nỉ Phối Tay Hình Cậu Bé Form Rộng Unisex",
       "image": "https://cf.shopee.vn/file/04670ce64e1050029c71fccba7ddba0d",
+      "category": "thời trang",
       "price-min": "62000",
       "price-max": "70000",
       "color": [
@@ -1171,6 +1222,7 @@
       "id": 52,
       "name": "Áo Khoác Bomber Nỉ Phối Tay Hình Cậu Bé Form Rộng Unisex",
       "image": "https://cf.shopee.vn/file/04670ce64e1050029c71fccba7ddba0d",
+      "category": "thời trang",
       "price-min": "62000",
       "price-max": "70000",
       "color": [
